@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< Updated upstream
       <module fileurl="file://$PROJECT_DIR$/Remonline_Webdriver.iml" filepath="$PROJECT_DIR$/Remonline_Webdriver.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/RemOnline_Repozetory.iml" filepath="$PROJECT_DIR$/RemOnline_Repozetory.iml" />
+>>>>>>> Stashed changes
     </modules>
   </component>
 </project>
